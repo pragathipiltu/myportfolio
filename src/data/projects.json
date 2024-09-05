@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Full Stack Crud Application",
+      "imageSrc": "projects/fullstack.png",
+      "description": "Created a CRUD application with Spring Boot and MySQL on the backend and React Hooks on the frontend. Utilized Postman for API testing and Axios for data handling",
+      "skills": ["React", "Spring Boot"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/pragathipiltu/javascript/tree/main/fullstackcrudapplication"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weather.png",
+      "description": "Developed a web app to display real-time weather data using the OpenWeatherMap API and front-end technologies",
+      "skills": ["Html", "Css", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/pragathipiltu/javascript/tree/main/weatherapp"
+    }
+  ]

@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Support Engineer",
+      "organisation": "Amazon",
+      "startDate": "Mar, 2022",
+      "endDate": "Present",
+      "experiences": ["Worked in an Agile Scrum environment to resolve high-impact customer bugs and critical security vulnerabilities in the product’s web layer", "Made significant UI/UX changes to enhance user experience and interface"],
+      "imageSrc": "history/amazon.png"
+    },
+    {
+      "role": "Automation Analyst",
+      "organisation": "Amazon",
+      "startDate": "Jan, 2021",
+      "endDate": "Mar, 2022",
+      "experiences": ["Designed scalable processes to maintain competitive pricing", "Used XPath and Regular Expressions for precise data capture from webpages."],
+      "imageSrc": "history/amazon.png"
+    }
+  ]
