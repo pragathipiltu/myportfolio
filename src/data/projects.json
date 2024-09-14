@@ -5,7 +5,7 @@
       "description": "Created a CRUD application with Spring Boot and MySQL on the backend and React Hooks on the frontend. Utilized Postman for API testing and Axios for data handling",
       "skills": ["React", "Spring Boot"],
       "demo": "https://www.example.com",
-      "source": "https://github.com/pragathipiltu/javascript/tree/main/fullstackcrudapplication"
+      "source": "https://github.com/pragathipiltu/fullstack-backend"
     },
     {
       "title": "Weather App",
